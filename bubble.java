@@ -5,3 +5,10 @@ class bubble
 		System.out.println("\nBubble");
 	}
 }
+class Selection
+{
+	int[] sort(int arr[])
+	{
+		System.out.println("Selection sort");
+	}
+}
